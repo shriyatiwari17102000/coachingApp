@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coachingApp/static/css/main.05f2bbb1.css",
+    "main.js": "/coachingApp/static/js/main.a1158746.js",
+    "static/js/787.8e9e615b.chunk.js": "/coachingApp/static/js/787.8e9e615b.chunk.js",
+    "static/media/background.webp": "/coachingApp/static/media/background.b1d5987ffa91e0458c9d.webp",
+    "static/media/third.webp": "/coachingApp/static/media/third.77738f9cecd13cf4e684.webp",
+    "static/media/second.jpg": "/coachingApp/static/media/second.9fa91a85bb04987d8d8d.jpg",
+    "static/media/teacher.webp": "/coachingApp/static/media/teacher.784641335b7ebec262b9.webp",
+    "static/media/coaching_logo.jpg": "/coachingApp/static/media/coaching_logo.8ae80fbd32248fae60c5.jpg",
+    "index.html": "/coachingApp/index.html",
+    "main.05f2bbb1.css.map": "/coachingApp/static/css/main.05f2bbb1.css.map",
+    "main.a1158746.js.map": "/coachingApp/static/js/main.a1158746.js.map",
+    "787.8e9e615b.chunk.js.map": "/coachingApp/static/js/787.8e9e615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f2bbb1.css",
+    "static/js/main.a1158746.js"
+  ]
+}
